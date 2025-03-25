@@ -2,7 +2,7 @@
 - 👀 About me: I’m interested in basketball
 - 🌱 What I am Doing: I’m currently learning Computer Science
 - 💞️ Hobbies: In my spare time I like to watch anime and play basketball
-- 📫 How to reach me: Don't
+- 📫 How to reach me: Davidmambule@outlook.com
 
 <!---
 Daikozy/Daikozy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
